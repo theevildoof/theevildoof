@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theevildoof&repo=TinyML_OV7670)](https://github.com/theevildoof/TinyML_OV7670)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theevildoof)](https://github.com/theevildoof/github-readme-stats)
+
+[![Vishw's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=theevildoof)](https://github.com/theevildoof/github-readme-stats)
