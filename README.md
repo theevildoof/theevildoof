@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- markdownlint-disable MD033 MD042-->
+---
+
+## **📊 Stats**
+
+[![Vishwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=theevildoof)](https://github.com/theevildoof/github-readme-stats)
