@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 
 [![Vishwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=theevildoof&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/theevildoof/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theevildoof&repo=TinyML_OV7670)](https://github.com/theevildoof/TinyML_OV7670)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theevildoof&repo=TinyML_OV7670&show_icons=true&theme=tokyonight)](https://github.com/theevildoof/TinyML_OV7670)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theevildoof)](https://github.com/theevildoof/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theevildoof&show_icons=true&theme=tokyonight)](https://github.com/theevildoof/github-readme-stats)
 
-[![Vishw's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=theevildoof)](https://github.com/theevildoof/github-readme-stats)
