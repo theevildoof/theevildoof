@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ## **📊 Stats**
 
-[![Vishwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=theevildoof)](https://github.com/theevildoof/github-readme-stats)
+[![Vishwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=theevildoof&count_private=true)](https://github.com/theevildoof/github-readme-stats)
