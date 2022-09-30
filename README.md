@@ -23,5 +23,3 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theevildoof&repo=TinyML_OV7670&show_icons=true&theme=tokyonight)](https://github.com/theevildoof/TinyML_OV7670)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theevildoof&show_icons=true&theme=tokyonight)](https://github.com/theevildoof/github-readme-stats)
-
