@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## **📊 Stats**
 
-[![Vishwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=theevildoof&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/theevildoof/github-readme-stats)
+## [![Vishwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=theevildoof&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/theevildoof/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theevildoof&repo=TinyML_OV7670&show_icons=true&theme=tokyonight)](https://github.com/theevildoof/TinyML_OV7670)
 
